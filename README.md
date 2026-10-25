@@ -1,153 +1,120 @@
-# dejoie
-
-<!-- ===================== PROFILE HEADER ===================== -->
 
 <h1 align="center">Hi 👋, I'm Sangwa De Joie</h1>
 
-<h3 align="center">
-  💻 Software Engineer | ☕ Java Developer | 🚀 Problem Solver
-</h3>
+<h3 align="center">Software Developer | Java & Spring Boot</h3>
 
 <p align="center">
-  Passionate about building software, developing applications,
-  and turning ideas into practical solutions.
+  I enjoy building software, solving problems, and learning new
+  technologies along the way.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Engineer;Java+%26+Spring+Boot+Developer;Frontend+%26+Backend+Development;Always+Learning+and+Building" alt="Typing introduction" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/dejoie">
-    <img src="https://komarev.com/ghpvc/?username=dejoie&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=500&lines=Software+Development;Java+%26+Spring+Boot;Learning+by+Building" alt="Introduction" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 👋 Hi, I'm **Sangwa De Joie**, a Software Engineer.
-- 💡 I enjoy designing and developing practical software solutions.
-- ☕ I work with **Java and Spring Boot**.
-- 🌐 Interested in frontend development using **JavaScript and React**.
-- 🗄️ Exploring relational databases, including **PostgreSQL, MySQL, and Oracle**.
-- 🐳 Familiar with development tools such as **Git, Linux, Docker, and Postman**.
-- 🎨 Interested in UI/UX design with **Figma**.
-- 🌱 Always learning, experimenting, and improving my coding skills.
-- 🤝 Open to collaborating on interesting software development projects.
+Hi, I'm De Joie, a software developer interested in building useful and reliable applications.
+
+I enjoy working on projects, exploring different technologies, and finding better ways to solve problems through code. I'm always looking to improve my skills and gain experience by putting what I learn into practice.
+
+- ☕ Interested in backend development with Java and Spring Boot
+- 🌐 Exploring frontend development with JavaScript and React
+- 🗄️ Working with SQL and relational databases
+- 🛠️ Using Git, Linux, Docker, and Postman in development workflows
+- 🎨 Interested in UI design and prototyping with Figma
+- 🤝 Open to learning from others and collaborating on projects
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🧰 Technologies & Tools
 
-### 💻 Programming Languages
+### Programming Languages
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=java,c,python,javascript" alt="Programming languages" />
 </p>
 
-### ⚙️ Backend Development
+### Backend Development
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" />
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" />
-  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" />
 </p>
 
-### 🌐 Frontend Development
+### Frontend Development
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react" alt="Frontend technologies" />
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react" alt="Frontend technologies" />
 </p>
 
-### 🗄️ Databases
+### Databases
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,oracle" alt="Database technologies" />
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,oracle" alt="Databases" />
 </p>
 
-### 🐳 Tools & Platforms
+### Tools & Platforms
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode,figma" alt="Developer tools" />
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,postman,figma" alt="Development tools" />
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <p align="center">
   <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=dejoie&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Sangwa De Joie's GitHub statistics"
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=dejoiesangwa&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub statistics"
   />
   <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dejoie&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Most used programming languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=dejoie&theme=tokyonight&hide_border=true"
-    alt="GitHub contribution streak"
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dejoiesangwa&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Most used languages"
   />
 </p>
 
 ---
 
-## 🚀 Projects & Portfolio
+## 🚀 What I'm Working Toward
 
-I use my GitHub profile to showcase software development work,
-experiments, and projects as I build them.
+I'm focused on improving my software development skills, building projects that help me learn, and becoming better at designing and developing applications.
 
-🔹 **Explore my repositories:**  
-[github.com/dejoie?tab=repositories](https://github.com/dejoie?tab=repositories)
-
-<!--
-Add your real projects here when ready:
-
-### Project Name
-A short description of what the project does.
-
-- Technologies: Java, Spring Boot, PostgreSQL
-- Repository: https://github.com/dejoie/your-project
--->
+I believe that consistent practice, curiosity, and learning from mistakes are important parts of becoming a better developer.
 
 ---
 
-## 🎯 Areas of Interest
+## 📂 My Projects
 
-- ☕ Backend development with Java and Spring Boot
-- 🌐 Full-stack web application development
-- 🗄️ Database design and SQL
-- 🐳 Containerization and development workflows
-- 🎨 User interface design and usability
-- 🧩 Problem-solving and writing maintainable code
+You can explore my repositories to see what I'm building and learning.
+
+<p>
+  <a href="https://github.com/dejoiesangwa?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
+  </a>
+</p>
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
-<p align="left">
-  <a href="https://github.com/dejoie">
+<p>
+  <a href="https://github.com/dejoiesangwa">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="YOUR_LINKEDIN_PROFILE_URL">
+  <a href="YOUR_LINKEDIN_URL">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:YOUR_EMAIL_ADDRESS">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <b>💻 Build. Learn. Improve. Repeat. 🚀</b>
-  <br/><br/>
-  Thanks for visiting my profile!
+  Thanks for stopping by! 👋
+  <br/>
+  <i>Learning, building, and improving one project at a time.</i>
 </p>
